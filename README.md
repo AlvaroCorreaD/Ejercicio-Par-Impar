@@ -1,2 +1,2 @@
-# Ejercicio-Par-Impar
-Created with CodeSandbox
+# Ejercicio Estructuras de Control - Selección
+Par o Impar
